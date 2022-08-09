@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/astro_beauty" target="blank"><img align="center" src="https://www.twitter.com/astro_beauty" alt="astro_beauty" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/india jackson" target="blank"><img align="center" src="https://www.linkedin.com/in/india- jackson-641a9354/" alt="india jackson" height="30" width="40" /></a>
+<a href="https://twitter.com/astro_beauty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="astro_beauty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/india-jackson-641a9354/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="india jackson" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
