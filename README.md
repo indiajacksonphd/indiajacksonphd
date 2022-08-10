@@ -2,6 +2,9 @@
 
 ![india_gsu](https://user-images.githubusercontent.com/110256537/183974050-52c10de4-f25e-4389-9f02-27e7882c926a.png)
 
+![515F0C40-50E3-4C6C-91E0-BAA833F03940_1_105_c](https://user-images.githubusercontent.com/110256537/183974215-74e23e4f-eb8e-4b75-922f-1091699d15d4.jpeg)
+
+
 
 <h3 align="center">I'm a Phd Astrophysics student at Georgia State University. I'm creating a cloud environment for the space weather community.</h3>
 
