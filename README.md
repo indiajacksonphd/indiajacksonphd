@@ -18,7 +18,7 @@
 
 <h3 align="left">I'm featured in:</h3>
 
- <table>
+<table>
   	<tr>
 	<td><a href = "https://www.gpbnews.org/post/atlanta-single-mom-will-intern-nasa-help-strangers">Georgia Public Broadcasting (GPB)</a></td>
 	<td><a href = "https://www.nytimes.com/2019/05/15/us/nasa-internship-single-mom-gofundme.html">New York Times</a></td>
