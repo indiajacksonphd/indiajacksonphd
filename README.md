@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm India</h1>
+
+![india_gsu](https://user-images.githubusercontent.com/110256537/183974050-52c10de4-f25e-4389-9f02-27e7882c926a.png)
+
+
 <h3 align="center">I'm a Phd Astrophysics student at Georgia State University. I'm creating a cloud environment for the space weather community.</h3>
 
 - 🔭 I’m currently working on **Implementation of A Scientific and Collaborative Environment Using Cloud-Native Approach to Converting and Processing Real Time Legacy Data for Use in Machine Learning and Big Data Analysis for Space Weather Prediction and Forecasting**
