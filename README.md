@@ -20,7 +20,7 @@
 <table align = "center">
   	<tr>
 	<td><a href = "https://www.gpbnews.org/post/atlanta-single-mom-will-intern-nasa-help-strangers">Georgia Public Broadcasting (GPB)</a></td>
-	<td><a href = "https://www.nytimes.com/2019/05/15/us/nasa-internship-single-mom-gofundme.html">New York Times</a></td>
+	<td style="text-align:center"><a href = "https://www.nytimes.com/2019/05/15/us/nasa-internship-single-mom-gofundme.html">New York Times</a></td>
 	<td><a href = "https://www.bbc.com/news/world-us-canada-48290154">British Broadcasting Corporation (BBC)</a></td>
 	<td><a href = "https://startupitalia.eu/109227-20190520-india-jackson-la-ragazza-grazie-al-crowdfunding-andra-alla-nasa-studiare-pianeti">La Republicca: Start Up Italia</a></td>
 	</tr>
