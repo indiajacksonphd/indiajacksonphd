@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm India</h1>
 
 ![india_gsu](https://user-images.githubusercontent.com/110256537/183974050-52c10de4-f25e-4389-9f02-27e7882c926a.png)
+![github_pic](https://user-images.githubusercontent.com/110256537/183976393-8f6046ff-6df8-4abb-a3a6-4ca43a099e99.jpg)
 
-![515F0C40-50E3-4C6C-91E0-BAA833F03940_1_105_c](https://user-images.githubusercontent.com/110256537/183974215-74e23e4f-eb8e-4b75-922f-1091699d15d4.jpeg)
-
-![F2852CD7-2F8A-492F-8EAF-E1B82B50D588_1_201_a](https://user-images.githubusercontent.com/110256537/183975130-1c06f427-1a8c-4ebb-ab5a-df05e418691d.jpeg)
-
-![A530BF28-EFD5-4A5C-AB7A-29459F1C6714_1_105_c](https://user-images.githubusercontent.com/110256537/183975455-55c084bf-2dc7-40cf-b48b-c84468b8d75e.jpeg)
 
 <h3 align="center">I'm a Phd Astrophysics student at Georgia State University. I'm creating a cloud environment for the space weather community.</h3>
 
