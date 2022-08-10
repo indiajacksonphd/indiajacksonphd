@@ -24,4 +24,19 @@
 	<li><a href = "https://www.bbc.com/news/world-us-canada-48290154">British Broadcasting Corporation (BBC)</a></li>
 	<li><a href = "https://startupitalia.eu/109227-20190520-india-jackson-la-ragazza-grazie-al-crowdfunding-andra-alla-nasa-studiare-pianeti">La Republicca: Start Up Italia</a></li>
 	<li><a href = "https://atlantablackstar.com/2019/05/14/strangers-chip-in-8k-to-help-georgia-single-mom-ph-d-candidate-attend-prestigious-nasa-internship/">Atlanta Black Star</a></li>
-	</ul>
+	<li><a href = "https://www.ebony.com/news/georgia-mom-to-attend-nasa-internship-with-help-from-crowd-fundraiser/">Ebony</a></li>
+	<li><a href = "https://www.vibe.com/2019/05/single-mom-nasa-internship-go-fund-me">Vibe</a></li>
+	<li><a href = "https://thegedsection.com/india-jackson-single-mom-nasa-internship-kindness-of-online-strangers-helps-woman-gofundme">The GED Section</a></li>
+	<li><a href = "https://www.youtube.com/watch?v=4e6AI6onmUk">Hoodrich Radio</a></li>
+	<li><a href = "https://theglowup.theroot.com/to-the-stars-and-beyond-a-single-mom-gets-to-intern-at-1834753027">The Root</a></li>
+	<li><a href = "https://www.univision.com/univision-news/strangers-help-single-mother-to-take-a-nasa-internship-video">Univision</a></li>
+	<li><a href = "https://blavity.com/generous-donors-raised-thousands-for-this-single-mom-and-phd-student-to-do-a-nasa-internship?category1=news">Blavity</a></li>
+	<li><a href = "https://www.cnn.com/2019/05/14/us/nasa-internship-gofundme-trnd/index.html">CNN</a></li>
+	<li><a href = "https://newsone.com/3852890/india-jackson-go-fund-me-nasa-internship/">NewsOne</a></li>
+	<li><a href = "https://thegrio.com/2019/05/20/india-jackson-nasa-internship-gofundme/">The Grio</a></li>
+	<li><a href = "https://news.gsu.edu/magazine/fall2019/stars-align">GSU Fall 2019 Magazine</a></li>
+	<li><a href = "https://www.gofundme.com/f/single-mother-amp-phd-student-wins-nasa-internship">My Go Fund Me Campaign</a></li>
+	<li><a href = "https://www.wsbtv.com/news/local/single-mom-scores-nasa-internship-strangers-raise-8k-to-help-her-go/948895430">Atlanta Channel 2 News (WSBTV)</a></li>
+	<li><a href = "https://www.ajc.com/news/local/this-single-mother-scored-nasa-internship-strangers-raised-help-her-attend/qNHzujpaqvHpCqeur3SrvJ/">Atlanta Journal Constitution (AJC)</a></li>
+	<li><a href = "https://www.essence.com/news/india-jackson-nasa-internship-go-fund-me/">Essence</a></li>
+</ul>
