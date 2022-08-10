@@ -25,7 +25,6 @@
 	<td><a href = "https://www.bbc.com/news/world-us-canada-48290154">British Broadcasting Corporation (BBC)</a></td>
 	<td><a href = "https://startupitalia.eu/109227-20190520-india-jackson-la-ragazza-grazie-al-crowdfunding-andra-alla-nasa-studiare-pianeti">La Republicca: Start Up Italia</a></td>
 	</tr>
-
 	<tr>
 	<td><a href = "https://atlantablackstar.com/2019/05/14/strangers-chip-in-8k-to-help-georgia-single-mom-ph-d-candidate-attend-prestigious-nasa-internship/">Atlanta Black Star</a></td>
 	<td><a href = "https://www.ebony.com/news/georgia-mom-to-attend-nasa-internship-with-help-from-crowd-fundraiser/">Ebony</a></td>
