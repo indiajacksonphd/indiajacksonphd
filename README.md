@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm India</h1>
-![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977003-65bbb25e-58bd-40f5-bf3e-b68dee6a62c0.png)
+<h1 align="center"> 🔭 ☄️ 🚀 India Jackson, MS<sup>2</sup> 🚀 ☄️ 🔭 </h1>
+
+![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977257-98fbe9f4-06aa-476e-ae1b-081e2369c4b4.png)
 
 
 <h3 align="center">I'm a Phd Astrophysics student at Georgia State University. I'm creating a cloud environment for the space weather community.</h3>
