@@ -19,22 +19,9 @@
 <h3 align="left">I'm featured in:</h3>
 <p align="left">
   	<ul>
-						<li><a href = "https://www.gpbnews.org/post/atlanta-single-mom-will-intern-nasa-help-strangers">Georgia Public Broadcasting (GPB)</a></li>
-					
-
-				
-
-				
-					
-						<li><a href = "https://www.nytimes.com/2019/05/15/us/nasa-internship-single-mom-gofundme.html">New York Times</a></li>
-					
-						
-					
-						<li><a href = "https://www.bbc.com/news/world-us-canada-48290154">British Broadcasting Corporation (BBC)</a></li>
-					
-						
-					
-						<li><a href = "https://startupitalia.eu/109227-20190520-india-jackson-la-ragazza-grazie-al-crowdfunding-andra-alla-nasa-studiare-pianeti">La Republicca: Start Up Italia</a></li>
-
-						<li><a href = "https://atlantablackstar.com/2019/05/14/strangers-chip-in-8k-to-help-georgia-single-mom-ph-d-candidate-attend-prestigious-nasa-internship/">Atlanta Black Star</a></li>
-					</ul>
+	<li><a href = "https://www.gpbnews.org/post/atlanta-single-mom-will-intern-nasa-help-strangers">Georgia Public Broadcasting (GPB)</a></li>
+	<li><a href = "https://www.nytimes.com/2019/05/15/us/nasa-internship-single-mom-gofundme.html">New York Times</a></li>
+	<li><a href = "https://www.bbc.com/news/world-us-canada-48290154">British Broadcasting Corporation (BBC)</a></li>
+	<li><a href = "https://startupitalia.eu/109227-20190520-india-jackson-la-ragazza-grazie-al-crowdfunding-andra-alla-nasa-studiare-pianeti">La Republicca: Start Up Italia</a></li>
+	<li><a href = "https://atlantablackstar.com/2019/05/14/strangers-chip-in-8k-to-help-georgia-single-mom-ph-d-candidate-attend-prestigious-nasa-internship/">Atlanta Black Star</a></li>
+	</ul>
