@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm India</h1>
-
-![india_gsu](https://user-images.githubusercontent.com/110256537/183974050-52c10de4-f25e-4389-9f02-27e7882c926a.png)
-
-![IMG_5873](https://user-images.githubusercontent.com/110256537/183976513-a170638e-1fc6-4708-83b9-11b98c22b4bb.jpeg)
+![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977003-65bbb25e-58bd-40f5-bf3e-b68dee6a62c0.png)
 
 
 <h3 align="center">I'm a Phd Astrophysics student at Georgia State University. I'm creating a cloud environment for the space weather community.</h3>
