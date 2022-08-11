@@ -3,7 +3,7 @@
 ![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977257-98fbe9f4-06aa-476e-ae1b-081e2369c4b4.png)
 
 
-<h3 align="center">I'm a Phd Astrophysics student at Georgia State University. I'm creating a cloud environment for the space weather community.</h3>
+<h3 align="center">I'm a Phd Astrophysics student at Georgia State University. I have a BS in Math, MS in Math and Stats, and MS in Physics.</h3>
 
 - 🔭 I’m currently working on **Implementation of A Scientific and Collaborative Environment Using Cloud-Native Approach to Converting and Processing Real Time Legacy Data for Use in Machine Learning and Big Data Analysis for Space Weather Prediction and Forecasting**
 
