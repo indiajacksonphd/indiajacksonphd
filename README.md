@@ -1,4 +1,4 @@
-<h2 align="center"> 🔭 ☄️ 🚀 India Jackson, MS<sup>2</sup> 🚀 ☄️ 🔭 </h2>
+<h2 align="center"> 🔭 ☄️ 🚀 India Jackson, MS<sup>3</sup>, PhD 🚀 ☄️ 🔭 </h2>
 
 ![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977257-98fbe9f4-06aa-476e-ae1b-081e2369c4b4.png)
 
