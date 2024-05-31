@@ -3,11 +3,11 @@
 ![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977257-98fbe9f4-06aa-476e-ae1b-081e2369c4b4.png)
 
 
-<h3 align="center">I'm a Phd Astrophysics and MS Computer Science student at Georgia State University. I have a BS in Math, MS in Math and Stats, and MS in Physics.</h3>
+<h3 align="center">Heliophysicist || Mathematician || Computer Scientist || NASA Intern || ATL</h3>
 
-- 🔭 I’m currently working on **Implementation of A Scientific and Collaborative Environment Using Cloud-Native Approach to Converting and Processing Real Time Legacy Data for Use in Machine Learning and Big Data Analysis for Space Weather Prediction and Forecasting**
+- 🔭 I use computer vision and machine learning to identify, label, and classify solar phenomena for space weather prediction.
 
-- 🌱 I’m currently learning **Amazon Web Services, C/C++**
+- 🌱 My hobbys include game development, web development, software development, cloud infrastructure, robotics, science fiction, and astronomy.
 
 - 💬 Ask me about **javascript, jquery, css, html, C#**
 
