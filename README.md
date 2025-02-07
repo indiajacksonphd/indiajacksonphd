@@ -1,8 +1,7 @@
 <h2 align="center"> 🔭 ☄️ 🚀 India Jackson, MS<sup>3</sup>, PhD 🚀 ☄️ 🔭 </h2>
 <h4 align="center"><a href="https://indiajacksonphd.s3.us-east-1.amazonaws.com/Jackson_India_CV_2025.pdf" target="blank">My Curriculum Vitae (CV)</a></h4>
 
-![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977257-98fbe9f4-06aa-476e-ae1b-081e2369c4b4.png)
-<center><img width="610" alt="new_github_pic" src="https://github.com/user-attachments/assets/53560043-3a80-4569-a924-ee01b60724d8" /></center>
+<!---![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977257-98fbe9f4-06aa-476e-ae1b-081e2369c4b4.png)-->
 
 <div align="center">
   <img width="610" alt="new_github_pic" src="https://github.com/user-attachments/assets/53560043-3a80-4569-a924-ee01b60724d8" />
