@@ -4,6 +4,10 @@
 ![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977257-98fbe9f4-06aa-476e-ae1b-081e2369c4b4.png)
 <center><img width="610" alt="new_github_pic" src="https://github.com/user-attachments/assets/53560043-3a80-4569-a924-ee01b60724d8" /></center>
 
+<div align="center">
+  <img width="610" alt="new_github_pic" src="https://github.com/user-attachments/assets/53560043-3a80-4569-a924-ee01b60724d8" />
+</div>
+
 
 <h3 align="center">Heliophysicist || Mathematician || Computer Scientist || NSF Postdoc || ATL</h3>
 
