@@ -2,6 +2,7 @@
 <h4 align="center"><a href="https://indiajacksonphd.s3.us-east-1.amazonaws.com/Jackson_India_CV_2025.pdf" target="blank">My Curriculum Vitae (CV)</a></h4>
 
 ![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977257-98fbe9f4-06aa-476e-ae1b-081e2369c4b4.png)
+<img width="987" alt="Screenshot 2025-02-07 at 9 54 46 AM" src="https://github.com/user-attachments/assets/caeac1fb-330e-43a4-9571-01b70f407fec" />
 
 <h3 align="center">Heliophysicist || Mathematician || Computer Scientist || NSF Postdoc || ATL</h3>
 
