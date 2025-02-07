@@ -4,7 +4,8 @@
 <!---![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977257-98fbe9f4-06aa-476e-ae1b-081e2369c4b4.png)-->
 
 <div align="center">
-  <img width="610" alt="new_github_pic" src="https://github.com/user-attachments/assets/53560043-3a80-4569-a924-ee01b60724d8" />
+  <!--<img width="610" alt="new_github_pic" src="https://github.com/user-attachments/assets/53560043-3a80-4569-a924-ee01b60724d8" />-->
+	<img width="612" alt="new_github_pic_2" src="https://github.com/user-attachments/assets/9629d7ed-0c35-4c4c-b010-611599bb7296" />
 </div>
 
 
