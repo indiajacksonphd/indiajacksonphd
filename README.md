@@ -2,10 +2,11 @@
 
 ![gitHubBanner](https://user-images.githubusercontent.com/110256537/183977257-98fbe9f4-06aa-476e-ae1b-081e2369c4b4.png)
 
+<a href="https://indiajacksonphd.s3.us-east-1.amazonaws.com/Jackson_India_CV_2025.pdf" target="blank">My Curriculum Vitae (CV)</a>
 
-<h3 align="center">Heliophysicist || Mathematician || Computer Scientist || NASA Intern || ATL</h3>
+<h3 align="center">Heliophysicist || Mathematician || Computer Scientist || NSF Postdoc || ATL</h3>
 
-- 🔭 I use computer vision and machine learning to identify, label, and classify solar phenomena for space weather prediction.
+- 🔭 I use computer vision and machine learning to identify, label, classify, predict, and forecast solar phenomena for space weather.
 
 - 🌱 My hobbys include game development, web development, software development, cloud infrastructure, robotics, science fiction, and astronomy.
 
